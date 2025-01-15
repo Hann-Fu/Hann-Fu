@@ -8,7 +8,7 @@
 - A Software Engineering Undergraduate Student & AI Technology enthusiast. I'm looking for a job related to AI.
 - 🗼 Currently working in Tokyo, Japan.
 - 💬 Ask me about Machine Learning, AI and my project through [hanfu5799@gmail.com](mailto:hanfu5799@gmail.com)
-- ⭐ Check my project at here [Fashion Recommendation](https://github.com/--------) !
+- ⭐ Check my project at here [Fashion Recommendation](https://github.com/Hann-Fu/Fashion-Consulting) !
 - 🙈 Fun facts: I still keep writing things down on paper📝
 
 ### 🛠 Tech Stack
@@ -31,7 +31,7 @@
 ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat&logo=Google)
 
 ### Open Source Project
-#### 🌐WEB Application:  [Fashion Consulting System](https://github.com/--)  
+#### 🌐WEB Application:  [Fashion Consulting System]([https://github.com/--](https://github.com/Hann-Fu/Fashion-Consulting))  
 Only text a prompt and get a complete recommendation for your desired parts of clothing item!  
 Tech used: Flask + MySQL + Milvus + PyTorch  
 - OpenAI API for user's prompt analysis.  
