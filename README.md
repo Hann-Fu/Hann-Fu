@@ -36,12 +36,27 @@ Only text a prompt and get a complete recommendation for your desired parts of c
 Tech used: Flask + MySQL + Milvus + PyTorch  
 - OpenAI API for user's prompt analysis.  
 - Function Calling to obtain formatted responses.  
-- Embedding based similarity search.  
+- RAG: Embedding based retrieval.  
 - CNN for image filtering.  
 #### 🛢Data Collection & Data Process
 - Meta data: Amazon(1M+) + Musinsa(200K+)
 - CNN based classification(gender, seasonality)
 - Gemini-1.5-flash function calling Description Generation
 - OpenAI CLIP similarity baseline model
+
+#### AI-Powered Planning Service API [Fashion Consulting System]([https://github.com/--](https://github.com/Hann-Fu/Fashion-Consulting)) 
+A sophisticated planning system that transforms simple ideas into actionable, time-structured roadmaps using LLM capabilities.
+
+**Tech Stack:** FastAPI | LangChain | Docker | OpenAI GPT-4 | Pydantic | MongoDB
+
+**Key Achievements:**
+- Architected a modular API service using FastAPI that processes natural language through multiple AI-enhanced stages
+- Implemented structured LLM outputs using LangChain and Pydantic for type-safe data handling
+- Designed hierarchical JSON schemas for complex time-series task generation with various scheduling patterns
+- Built robust error handling and content moderation systems using OpenAI's moderation API
+- Created a multi-stage AI pipeline: policy validation → information gathering → plan generation → time-series conversion
+- Containerized the application using Docker and designed MongoDB-compatible schemas for efficient data storage
+
+**Impact:** Reduced plan creation time through automation while ensuring consistency via structured validation and AI-powered moderation
 
 > ** Free free to contact me! For more details or meta data, find me through email!😊***
