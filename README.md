@@ -33,18 +33,18 @@
 ### Open Source Project
 #### 🌐WEB Application:  [Fashion Consulting System]([https://github.com/--](https://github.com/Hann-Fu/Fashion-Consulting))  
 Only text a prompt and get a complete recommendation for your desired parts of clothing item!  
-Tech used: Flask + MySQL + Milvus + PyTorch  
+**Tech Stack:** : Flask | MySQL | Milvus | PyTorch  
 - OpenAI API for user's prompt analysis.  
 - Function Calling to obtain formatted responses.  
 - RAG: Embedding based retrieval.  
 - CNN for image filtering.  
-#### 🛢Data Collection & Data Process
+**🛢Data Collection & Data Process**
 - Meta data: Amazon(1M+) + Musinsa(200K+)
 - CNN based classification(gender, seasonality)
 - Gemini-1.5-flash function calling Description Generation
 - OpenAI CLIP similarity baseline model
 
-#### AI-Powered Planning Service API [Fashion Consulting System]([https://github.com/--](https://github.com/Hann-Fu/Fashion-Consulting)) 
+#### 📝AI-Powered Planning Service API [Fashion Consulting System]([https://github.com/--](https://github.com/Hann-Fu/Fashion-Consulting)) 
 A sophisticated planning system that transforms simple ideas into actionable, time-structured roadmaps using LLM capabilities.
 
 **Tech Stack:** FastAPI | LangChain | Docker | OpenAI GPT-4 | Pydantic | MongoDB
