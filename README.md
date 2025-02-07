@@ -46,9 +46,7 @@ Only text a prompt and get a complete recommendation for your desired parts of c
 
 #### 📝AI-Powered Planning Service API [Fashion Consulting System]([https://github.com/--](https://github.com/Hann-Fu/Fashion-Consulting)) 
 A sophisticated planning system that transforms simple ideas into actionable, time-structured roadmaps using LLM capabilities.
-
 **Tech Stack:** FastAPI | LangChain | Docker | OpenAI GPT-4 | Pydantic | MongoDB
-
 **Key Achievements:**
 - Architected a modular API service using FastAPI that processes natural language through multiple AI-enhanced stages
 - Implemented structured LLM outputs using LangChain and Pydantic for type-safe data handling
