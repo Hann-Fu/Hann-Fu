@@ -8,7 +8,7 @@
 - A Software Engineering Undergraduate Student & AI Technology enthusiast. I'm looking for a job related to AI.
 - 🗼 Currently working in Tokyo, Japan.
 - 💬 Ask me about Machine Learning, AI and my project through [hanfu5799@gmail.com](mailto:hanfu5799@gmail.com)
-- ⭐ Check my project at here [Fashion Recommendation](https://github.com/Hann-Fu/Fashion-Consulting) !
+- ⭐ Please check my portfolio! Apply better comment extension for better experience.
 - 🙈 Fun facts: I still keep writing things down on paper📝
 
 ### 🛠 Tech Stack
