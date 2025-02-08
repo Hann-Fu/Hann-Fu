@@ -29,6 +29,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🤖 &#160; ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
 ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat&logo=Google)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
 
 ### Open Source Project
 #### 🌐WEB Application:  [Fashion Consulting System]([https://github.com/--](https://github.com/Hann-Fu/Fashion-Consulting))  
