@@ -5,7 +5,7 @@
 
 ### This is Han🚗
 
-- A Software Engineering Undergraduate Student & AI Technology enthusiast. I'm looking for a job related to AI.
+- A Software Engineering Undergraduate Student & AI Technology enthusiast. 
 - 🗼 Currently working in Tokyo, Japan.
 - 💬 Ask me about Machine Learning, AI and my project through [hanfu5799@gmail.com](mailto:hanfu5799@gmail.com)
 - ⭐ Please check my portfolio! Apply better comment extension for better experience.
