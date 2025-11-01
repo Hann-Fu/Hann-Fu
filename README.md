@@ -6,9 +6,6 @@
 ### This is Han🚗
 
 - A Software Engineering Undergraduate Student & AI Technology enthusiast. 
-- 🗼 Currently working in Tokyo, Japan.
-- 💬 Ask me about Machine Learning, AI and my project through [hanfu5799@gmail.com](mailto:hanfu5799@gmail.com)
-- ⭐ Please check my portfolio!
 
 ### 🛠 Tech Stack
 
@@ -29,4 +26,5 @@
 - 🤖 &#160; ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
 ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat&logo=Google)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
+![LangChain](https://img.shields.io/badge/-LangGraph-333333?style=flat&logo=LangGraph)
 
