@@ -17,6 +17,7 @@
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Milvus](https://img.shields.io/badge/-Milvus-333333?style=flat&logo=milvus)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
@@ -26,5 +27,9 @@
 - 🤖 &#160; ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
 ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat&logo=Google)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
-![LangChain](https://img.shields.io/badge/-LangGraph-333333?style=flat&logo=LangGraph)
+![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat&logo=LangGraph)
+![CrewAI](https://img.shields.io/badge/-CrewAI-333333?style=flat&logo=CrewAI)
+![LiteLLM](https://img.shields.io/badge/-LiteLLM-333333?style=flat&logo=LiteLLM)
+![Dify](https://img.shields.io/badge/-Dify-333333?style=flat&logo=Dify)
+![N8N](https://img.shields.io/badge/-N8N-333333?style=flat&logo=N8N)
 
