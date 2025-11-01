@@ -13,7 +13,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=FF4800)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=007396)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
@@ -29,7 +29,7 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat&logo=LangGraph)
 ![CrewAI](https://img.shields.io/badge/-CrewAI-333333?style=flat&logo=CrewAI)
+![N8N](https://img.shields.io/badge/-N8N-333333?style=flat&logo=N8N)
 ![LiteLLM](https://img.shields.io/badge/-LiteLLM-333333?style=flat&logo=LiteLLM)
 ![Dify](https://img.shields.io/badge/-Dify-333333?style=flat&logo=Dify)
-![N8N](https://img.shields.io/badge/-N8N-333333?style=flat&logo=N8N)
 
