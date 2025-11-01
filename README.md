@@ -33,5 +33,5 @@
 ![N8N](https://img.shields.io/badge/-N8N-333333?style=flat&logo=N8N)
 ![LiteLLM](https://img.shields.io/badge/-LiteLLM-333333?style=flat&logo=LiteLLM)
 ![Dify](https://img.shields.io/badge/-Dify-333333?style=flat&logo=Dify)
-![CamelAI](https://img.shields.io/badge/-CamelAI-333333?style=flat&logo=CamelAI)
+![CamelAI](https://img.shields.io/badge/-CamelAI-333333?style=flat&logo=camelAI)
 ![MCP](https://img.shields.io/badge/-MCP-333333?style=flat&logo=MCP)
