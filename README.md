@@ -2,12 +2,6 @@
 [![Mail Badge](https://img.shields.io/badge/-hanfu5799@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hanfu5799@gmail.com)](mailto:hanfu5799@gmail.com)
 ---
 
-
-### This is Han🚗
-
-- A Software Engineering Undergraduate Student & AI Technology enthusiast.
-- An AI App Development Engineer focused on building innovative applications, driven by passion and curiosity to explore all emerging technologies and passionate about them. 
-
 ### 🛠 Tech Stack
 
 - 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=007396)
